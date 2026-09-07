@@ -1,0 +1,21 @@
+body{
+    background:#f8f9fa;
+    font-family:Arial, sans-serif;
+}
+h1,h2{
+    color:#c0392b;
+}
+.card{
+    margin-bottom:20px;
+    border-radius:12px;
+}
+.card img{
+    height:250px;
+    object-fit:cover;
+}
+.btn{
+    width:100%;
+}
+footer{
+    margin-top:40px;
+}
